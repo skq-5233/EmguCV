@@ -1,0 +1,1 @@
+C:\Emgu\emgucv-windows-ipp-dldt 4.5.1.4349\bin\Example.OCR.exe.config
